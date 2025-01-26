@@ -4,6 +4,9 @@ This is an PoC which can make most Hyper OS system tiles disappear in edit view.
 
 这是一个能使大多数 Hyper OS 的系统磁贴在编辑界面消失的 PoC (Proof of Concept)。
 
+This bug has been fixed / 此Bug已被官方修复
+---
+
 ## 使用方式
 
 - 编译此项目，并将应用安装在任意一台运行 Hyper OS (MIUI?) 系统的手机上
